@@ -1,9 +1,9 @@
 # Issue 起票時の注意点
-*下記ラベルを必ず選択する。*
+**下記ラベルを必ず選択する。**  
 ラベルの意味は「ラベルの説明」を参照
-1. Tracker
-2. Priority
-3. Status
+1. Tracker  
+2. Priority  
+3. Status  
 
 ラベル「Tracker」に応じて、各項目を記入する。  
 不要な項目は削除する。
@@ -46,24 +46,24 @@
 # ラベルの説明
 ## Tracker
 Issueをタスクの内容で分類するためのラベル
-1. Bug
+1. Bug  
 不具合 Issue用
-2. Question
+2. Question  
 QA Issue用
-3. 機能追加
+3. 機能追加  
 機能一覧に記載している機能を実装する場合に使用する。
-4. Task
+4. Task  
 上記以外のタスク用
 
 ## Priority
-Priorityの高い順にIssue対応する。
+Priorityの高い順にIssue対応する。  
 数日以内に完了しなければならない緊急のIssueの場合、「Emergency」を使用する。
 
 ## Status
 Issueの対応状況を把握するために使用する。
-1. 未着手
+1. 未着手  
 Issue アサイン時に使用する。
-2. 対応中
+2. 対応中  
 Issue の内容を確認、対応中の時に使用する。
-3. レビュー待ち
+3. レビュー待ち  
 レビュー依頼をする時に使用する。

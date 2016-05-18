@@ -5,7 +5,7 @@
 2. Priority  
 3. Status  
 
-ラベル「Tracker」に応じて、各項目を記入する。  
+**ラベル「Tracker」に応じて、各項目を記入する。**  
 不要な項目は削除する。
 ## Bug Tracker
 * 概要  
